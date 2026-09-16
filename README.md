@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**makasigayathri-ux/makasigayathri-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi!  I am Makasi Gayathri.I'm a B.Tech Computer Science student with an interest in technology, programming, and software development. I enjoy learning new technologies, solving problems, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+
+- Programming and software development
+- Web and mobile application development
+- Artificial Intelligence and emerging technologies
+- Problem solving and learning new technologies
+- Reading books and listening to music
+
+Skills
+
+- C
+- C++
+- Java
+- Python
+- HTML & CSS
+- SQL
+- Git & GitHub
+- Basic knowledge of Django and REST APIs
+I successful completed the infosys springboard internship. I am interested to solve real world problem solving skills. 
+
+I am always interested in learning, improving my skills, and working on projects that help me gain practical experience.
